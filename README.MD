@@ -37,7 +37,7 @@ Have fun!
 
 ## Project completion
 
-[//]: # (Project was completed on 26.05.23.)
+Project was completed on 31.07.23.
 
 ## Progress
 
@@ -46,3 +46,11 @@ Have fun!
 31.07.23 Stage 1 completed - just printing of menu and input checking.
 
 31.07.23 Stage 2 completed - use `uname` and `whoami` command .
+
+31.07.23 Stage 3 completed - file menu with string operations - solved using GNU-`sed` and `find`. Great stage!
+
+31.07.23 Stage 4 completed - change directory levels in the commander - navigate through file system.
+
+31.07.23 Stage 5 completed - implement file operations - cllas of `rm`, `mv` and `chmod`.
+
+31.07.23 Final stage 6 completed - find executables with `whereis` and split string into tokens with `($str)`.

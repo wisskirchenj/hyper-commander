@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-echo -e "\n*** menu.bats ***\n"
-./test/bats/bin/bats ./test/menu.bats
+echo -e "\n*** commander.bats ***\n"
+./test/bats/bin/bats ./test/commander.bats
 
